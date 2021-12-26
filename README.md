@@ -13,4 +13,4 @@ Precision:  90.02%
 Recall:  89.32%
 f1 score:  89.7%
 
-![stack Overflow](http://lmsotfy.com/so.png)
+![stack Overflow](https://ibb.co/wLH0m0z)
