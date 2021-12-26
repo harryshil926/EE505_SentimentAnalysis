@@ -13,4 +13,4 @@ Precision:  90.02%
 Recall:  89.32%
 f1 score:  89.7%
 
-![] (images/Loss%20Curve.png)
+![](images/Loss%20Curve.png)
